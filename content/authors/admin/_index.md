@@ -56,8 +56,8 @@ skills:
       - name: ROS
         description: ''
         percent: 90
-        company_logo: Ros_logo
-        icon_pack: fab
+        icon: Ros_logo🦾
+        icon_pack: custom
       - name: SQL
         description: ''
         percent: 40
