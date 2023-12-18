@@ -57,7 +57,7 @@ skills:
         description: ''
         percent: 90
         icon: org-gc
-        icon_pack: custom
+        icon_pack: fas
       - name: SQL
         description: ''
         percent: 40
