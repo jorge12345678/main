@@ -81,7 +81,7 @@ sections:
           company_logo: nexum
           location: Peru
           date_start: '2023-11-01'
-          date_end: ' '
+          date_end: ''
           description: Mentoring of ten technological ventures incubated by the PUCP.
         - title: Teaching Fellow / Thesis Advisor
           company: Faculty of Sciences and Engineering PUCP
