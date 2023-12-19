@@ -85,7 +85,7 @@ skills:
       - name: Puzzles
         description: ''
         percent: 90
-        icon: camera-retro
+        icon: puzzle-piece
         icon_pack: fas
       - name: Reading
         description: ''
