@@ -109,9 +109,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Epw7J3AAAAAJ&hl=es
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jorgeramirezchavez/
@@ -128,6 +128,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jorge Ramirez es un docente investigador del Grupo de Innovación Tecnológica (GIT) en la Pontificia Universidad Católica del Perú (PUCP). Cuenta con más de 6 años de experiencia desarrollando sistemas robóticos, validandolos en campo y ofreciendo servicios a al sector privado. Sus intereses de investigación incluyen el diseño e implementación de robots terrestres y acuáticos, control automático y navegación autónoma. Él actualmente lidera el laboratorio de desarrollo de proyectos de Fabricum PUCP, el cual busca desarrollar proyectos I+D+i con el sector público y privado peruano.
 {style="text-align: justify;"}
