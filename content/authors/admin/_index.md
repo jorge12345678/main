@@ -58,7 +58,7 @@ skills:
         percent: 90
         icon: Ros_logo
         icon_pack: 
-      - name: 3D CAD Design Software (Autodesk Inventor, Autodesk Fusion 360, Solidworks)
+      - name: 3D CAD Design Software (Inventor, Fusion 360, Solidworks)
         description: ''
         percent: 60
         icon: database
