@@ -51,22 +51,22 @@ skills:
       - name: Programming languages (Python, C++, XML)
         description: ''
         percent: 80
-        icon: python
+        icon: chalkboard
         icon_pack: fab
       - name: Robotics Software (ROS, Gazebo, Matlab)
         description: ''
         percent: 90
-        icon: Ros_logo
+        icon: robot
         icon_pack: 
       - name: 3D CAD Design Software (Inventor, Fusion 360, Solidworks)
         description: ''
         percent: 60
-        icon: database
+        icon: compass-drafting
         icon_pack: fas
       - name: Embedded systems (Raspberry Pi, Jetson Nano, Jetson TX2)
         description: ''
         percent: 80
-        icon: database
+        icon: microchip
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -80,7 +80,7 @@ skills:
       - name: Visit museums
         description: ''
         percent: 80
-        icon: cat
+        icon: building-columns
         icon_pack: fas
       - name: Puzzles
         description: ''
