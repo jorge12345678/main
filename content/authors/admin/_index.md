@@ -52,7 +52,7 @@ skills:
         description: ''
         percent: 80
         icon: robot
-        icon_pack: fas
+        icon_pack: 
       - name: Robotics Software (ROS, Gazebo, Matlab)
         description: ''
         percent: 90
