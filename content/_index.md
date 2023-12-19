@@ -62,8 +62,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Robotic Application Development Engineer
-          company: Fabricum PUCP
+        - title: Researcher
+          company: Fabricum PUCP 
           company_url: 'https://fabricum.pucp.edu.pe/'
           company_logo: pucp
           location: Peru
@@ -72,17 +72,51 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Implementation of robotic applications using robotic arms.
-              * Formulation of technological projects with public funds.
-              * Training of undergraduate and master's students in ROS.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: Ros_logo
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Implementation of robotic applications.
+              * Formulation of technological projects.
+              * Training students in ROS and Gazebo.
+        - title: Technology mentor
+          company: Nexum PUCP
+          company_url: 'https://cide.pucp.edu.pe/incubacion-empresas/'
+          company_logo: nexum
+          location: Peru
+          date_start: '2023-11-01'
+          date_end: ' '
+          description: Mentoring of ten technological ventures incubated by the PUCP.
+        - title: Teaching Fellow / Thesis Advisor
+          company: Faculty of Sciences and Engineering PUCP
+          company_url: 'https://www.pucp.edu.pe/carrera/ingenieria-mecatronica/'
+          company_logo: pucp
+          location: Peru
+          date_start: '2022-08-01'
+          date_end: '2023-12-01 '
+          description: In charge of designing and planning courses as well as giving lectures about robotics.
+        - title: Lead Projects Engineer / Field Engineering Supervisor
+          company: Tumi Robotics
+          company_url: 'https://tumirobotics.com/en/'
+          company_logo: tumi
+          location: Peru
+          date_start: '2017-11-01'
+          date_end: '2022-08-01 '
+          description: |2-
+              Responsibilities include:
+
+              * Implementation and validation of Wheeled Robots for inspection of critical infrastructure in the mining sector
+              * Management of multiple research projects for development of aquatic robots (USV, AUV, Underwater ROV).
+              * Supervision of field services using robotic solutions.
+        - title: Research Assistant
+          company: Pontifical Catholic University of Peru
+          company_url: 'https://www.pucp.edu.pe/'
+          company_logo: pucp
+          location: Peru
+          date_start: '2017-04-01'
+          date_end: '2022-11-01'
+          description: |2-
+              Responsibilities include:
+
+              * Formulation of projects to obtain public and private funds.
+              * Development of technological projects related to robotics.
+              * Perform experimental tasks and obtain relevant data.
     design:
       columns: '2'
   - block: accomplishments
