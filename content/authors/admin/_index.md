@@ -51,7 +51,7 @@ skills:
       - name: Programming languages (Python, C++, XML)
         description: ''
         percent: 80
-        icon: chalkboard
+        icon: chalkboard-user
         icon_pack: fab
       - name: Robotics Software (ROS, Gazebo, Matlab)
         description: ''
