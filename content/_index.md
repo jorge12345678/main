@@ -89,7 +89,7 @@ sections:
           company_logo: pucp
           location: Peru
           date_start: '2022-08-01'
-          date_end: '2023-12-01 '
+          date_end: '2023-12-01'
           description: In charge of designing and planning courses as well as giving lectures about robotics.
         - title: Lead Projects Engineer / Field Engineering Supervisor
           company: Tumi Robotics
@@ -97,7 +97,7 @@ sections:
           company_logo: tumi
           location: Peru
           date_start: '2017-11-01'
-          date_end: '2022-08-01 '
+          date_end: '2022-08-01'
           description: |2-
               Responsibilities include:
 
