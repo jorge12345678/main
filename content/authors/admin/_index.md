@@ -51,7 +51,7 @@ skills:
       - name: Programming languages (Python, C++, XML)
         description: ''
         percent: 80
-        icon: compass-drafting
+        icon: keyboard
         icon_pack: fas
       - name: Robotics Software (ROS, Gazebo, Matlab)
         description: ''
