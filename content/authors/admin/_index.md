@@ -90,7 +90,7 @@ skills:
       - name: Reading
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: book-open
         icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
