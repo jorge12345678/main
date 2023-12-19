@@ -48,19 +48,24 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Programming languages (Python, C++, XML)
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: ROS
+      - name: Robotics Software (ROS, Gazebo, Matlab)
         description: ''
         percent: 90
         icon: Ros_logo
         icon_pack: 
-      - name: SQL
+      - name: 3D CAD Design Software (Autodesk Inventor, Autodesk Fusion 360, Solidworks)
         description: ''
-        percent: 40
+        percent: 60
+        icon: database
+        icon_pack: fas
+      - name: Embedded systems (Raspberry Pi, Jetson Nano, Jetson TX2)
+        description: ''
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -69,20 +74,24 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 100
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Visit museums
         description: ''
-        percent: 100
+        percent: 80
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Puzzles
+        description: ''
+        percent: 90
+        icon: camera-retro
+        icon_pack: fas
+      - name: Reading
         description: ''
         percent: 80
         icon: camera-retro
         icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
