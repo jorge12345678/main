@@ -52,7 +52,7 @@ skills:
         description: ''
         percent: 80
         icon: chalkboard-user
-        icon_pack: fab
+        icon_pack: fas
       - name: Robotics Software (ROS, Gazebo, Matlab)
         description: ''
         percent: 90
@@ -60,7 +60,7 @@ skills:
         icon_pack: 
       - name: 3D CAD Design Software (Inventor, Fusion 360, Solidworks)
         description: ''
-        percent: 60
+        percent: 65
         icon: compass-drafting
         icon_pack: fas
       - name: Embedded systems (Raspberry Pi, Jetson Nano, Jetson TX2)
