@@ -153,7 +153,7 @@ sections:
           date_end: '2021-08-06'
           date_start: '2021-04-01'
           description: Modeling and simulation of fully functional robots using ROS and Gazebo.
-          icon: udacity
+          icon: Ros_logo
           organization: Udacity
           organization_url: https://www.udacity.com/
           title: Robotics Software Engineer (Nanodegree Program)
