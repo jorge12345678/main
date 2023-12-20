@@ -149,7 +149,7 @@ sections:
           organization_url: https://www.coursera.org
           title: Introduction to Self-Driving Cars
           url: 'https://www.coursera.org/programs/pucp-docentes-fc-2umjj/learn/intro-self-driving-cars'
-        - certificate_url: confirm.udacity.com/EJZGAULF
+        - certificate_url: https://graduation.udacity.com/confirm/EJZGAULF
           date_end: '2021-08-06'
           date_start: '2021-04-01'
           description: Modeling and simulation of fully functional robots using ROS and Gazebo.
