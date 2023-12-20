@@ -130,7 +130,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards & Certificates'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -140,24 +140,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/FSFYCWL9WRA9
+          date_end: '2023-12-01'
+          date_start: '2023-09-01'
+          description: 'First Course of the Self-Driving Cars Specialization offered by the University of Toronto. '
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          title: Introduction to Self-Driving Cars
+          url: 'https://www.coursera.org/programs/pucp-docentes-fc-2umjj/learn/intro-self-driving-cars'
+        - certificate_url: confirm.udacity.com/EJZGAULF
+          date_end: '2021-08-06'
+          date_start: '2021-04-01'
+          description: Modeling and simulation of fully functional robots using ROS and Gazebo.
+          icon: udacity
+          organization: Udacity
+          organization_url: https://www.udacity.com/
+          title: Robotics Software Engineer (Nanodegree Program)
+          url: https://www.udacity.com/course/robotics-software-engineer--nd209
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
