@@ -117,6 +117,14 @@ sections:
               * Formulation of projects to obtain public and private funds.
               * Development of technological projects related to robotics.
               * Perform experimental tasks and obtain relevant data.
+        - title: Teaching Assistant
+          company: Pontifical Catholic University of Peru
+          company_url: 'https://www.pucp.edu.pe/'
+          company_logo: pucp
+          location: Peru
+          date_start: '2019-03-01'
+          date_end: '2021-03-01'
+          description: Instructor of the lecture Mechatronic Design Project
     design:
       columns: '2'
   - block: accomplishments
