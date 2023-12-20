@@ -153,20 +153,20 @@ sections:
           date_end: '2021-08-06'
           date_start: '2021-04-01'
           description: Modeling and simulation of fully functional robots using ROS and Gazebo.
-          icon: pucp
+          icon: udacity
           organization: Udacity
           organization_url: https://www.udacity.com/
           title: Robotics Software Engineer (Nanodegree Program)
           url: https://www.udacity.com/course/robotics-software-engineer--nd209
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/BTNQMKQJQUJ3
+          date_end: '2021-05-11'
+          date_start: '2021-02-01'
+          description: 'Development of feature recognition applications.'
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Convolutional Neural Networks
+          url: 'https://www.coursera.org/learn/convolutional-neural-networks'
     design:
       columns: '2'
   - block: collection
