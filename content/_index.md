@@ -126,7 +126,7 @@ sections:
           date_end: '2021-03-01'
           description: Instructor of the lecture Mechatronic Design Project
     design:
-      columns: '2'
+      columns: '3'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -174,7 +174,7 @@ sections:
           icon: download
           organization: World Robot Summit
           organization_url: https://wrs.nedo.go.jp/en/
-          title: WRS Challengue 2018
+          title: WRS Challenge 2018
           url: ''
         - certificate_url: uploads/ambiental.pdf
           date_end: '2018-05-17'
