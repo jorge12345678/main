@@ -1,5 +1,5 @@
 ---
-title: Implementation of a Robotic Bartender
+title: Implemwerrewrewra Robotic Bartender
 summary: Development and Implementation of a Robotic Bartender for Automatic Pisco Sour Preparation
 tags:
   - Other
@@ -33,4 +33,3 @@ slides: ''
 Kitchen support robots are being used more frequently in the gastronomic sector. This type of robots represent a solution in the food industry by allowing processes to be automated, optimizing costs and standardizing the quality of the final product. This project is focused on the development and implementation of a robotic bartender system for automatic preparation of Pisco Sour, a peruvian drink recognized worldwide.
 
 The robotic bartender is capable of executing each stage in the preparation of the Pisco Sour from precisely measuring the ingredients to performing perfect stirring. This achievement represents an interdisciplinary collaboration between the technical knowledge of robotics with the knowledge of gastronomy professionals. In the medium term, it is expected to expand the functionalities of the system in order to prepare non-alcoholic beverages such as coffee and soft drinks in addition to serving flour-based foods.
-
