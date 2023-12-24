@@ -1,15 +1,15 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Implementation of a Robotic Bartender
+summary: Development and Implementation of a Robotic Bartender for Automatic Pisco Sour Preparation
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Other
+date: '2023-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Robotics Bartender System
   focal_point: Smart
 
 links:
