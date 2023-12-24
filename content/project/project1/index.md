@@ -29,7 +29,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ''
 
-image: featured2.jpg
+image: 
+  source: featured2.jpg
 ---
 
 Kitchen support robots are being used more frequently in the gastronomic sector. This type of robots represent a solution in the food industry by allowing processes to be automated, optimizing costs and standardizing the quality of the final product. This project is focused on the development and implementation of a robotic bartender system for automatic preparation of Pisco Sour, a peruvian drink recognized worldwide.
