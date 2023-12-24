@@ -1,5 +1,5 @@
 ---
-title: Imwqewqewqewq
+title: Project2
 summary: Dwqewqemplementation of a Robotic Bartender for Automatic Pisco Sour Preparation
 tags:
   - Other
