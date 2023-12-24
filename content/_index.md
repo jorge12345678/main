@@ -174,7 +174,7 @@ sections:
           icon: download
           organization: World Robot Summit
           organization_url: https://wrs.nedo.go.jp/en/
-          title: WRS 2018
+          title: WRS Challengue 2018
           url: ''
         - certificate_url: uploads/ambiental.pdf
           date_end: '2018-05-17'
