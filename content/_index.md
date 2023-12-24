@@ -167,6 +167,15 @@ sections:
           organization_url: https://www.coursera.org
           title: Convolutional Neural Networks
           url: 'https://www.coursera.org/learn/convolutional-neural-networks'
+        - certificate_url: uploads/summit.pdf
+          date_end: '2018-10-17'
+          date_start: '2018-10-21'
+          description: '7th place'
+          icon: summit
+          organization: World Robot Summit
+          organization_url: https://wrs.nedo.go.jp/en/
+          title: WRS 2018
+          url: ''
         - certificate_url: uploads/ambiental.pdf
           date_end: '2018-05-17'
           date_start: '2018-04-19'
