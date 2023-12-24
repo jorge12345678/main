@@ -1,5 +1,5 @@
 ---
-title: Implemwerrewrewra Robotic Bartender
+title: Imwqewqewqewq
 summary: Development and Implementation of a Robotic Bartender for Automatic Pisco Sour Preparation
 tags:
   - Other
