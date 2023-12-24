@@ -35,3 +35,5 @@ The robotic bartender is capable of executing each stage in the preparation of t
 
 
 <img src= featured2.jpg>
+
+<img src= featured3.jpg>
