@@ -167,6 +167,15 @@ sections:
           organization_url: https://www.coursera.org
           title: Convolutional Neural Networks
           url: 'https://www.coursera.org/learn/convolutional-neural-networks'
+        - certificate_url: uploads/ambiental.pdf
+          date_end: '2018-05-17'
+          date_start: '2018-04-19'
+          description: 'Evaluation of how a project, technology or process will affect the environment and populations.'
+          icon: pucp
+          organization: Pontifical Catholic University of Peru
+          organization_url: https://www.pucp.edu.pe/
+          title: Training Course in Environmental Impact Study
+          url: ''
     design:
       columns: '2'
   - block: collection
