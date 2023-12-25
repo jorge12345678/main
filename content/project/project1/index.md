@@ -33,5 +33,5 @@ Kitchen support robots are being used more frequently in the gastronomic sector.
 
 The robotic bartender is capable of executing each stage in the preparation of the Pisco Sour from precisely measuring the ingredients to performing perfect stirring. This achievement represents an interdisciplinary collaboration between the technical knowledge of robotics with the knowledge of gastronomy professionals. In the medium term, it is expected to expand the functionalities of the system in order to prepare non-alcoholic beverages such as coffee and soft drinks in addition to serving flour-based foods. 
 
-<img src= featured2.jpg width= 150 height= 444>
-<img src= featured3.jpg width= 1024 height= 576>
+<img src= featured2.jpg width= 360 height= 360>
+<img src= featured3.jpg width= 360 height= 360>
