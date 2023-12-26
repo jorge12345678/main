@@ -35,7 +35,7 @@ The robotic bartender is capable of executing each stage in the preparation of t
 
 <figure>
   <img src= robot_bartender.jpg width= 280 height= 280 >
-  <figcaption>Fig.1 - Robotic bartender serving Pisco Sour</figcaption>
+  <figcaption>Fig.1 - Robotic bartender serving Pisco Sour. Source: Peru21</figcaption>
 </figure>
 
 The system was validated at the LinkING academic event (https://shorturl.at/pBGM2) by preparing drinks for attendees. Figure 2 shows the great interest on the part of the attendees about the operation of the system. This achievement represents an interdisciplinary collaboration between the technical knowledge of robotics with the knowledge of gastronomy professionals. In the medium term, it is expected to expand the functionalities of the system in order to prepare non-alcoholic beverages such as coffee and soft drinks in addition to serving flour-based foods. 

@@ -1,15 +1,15 @@
 ---
-title: Project2
-summary: Dwqewqemplementation of a Robotic Bartender for Automatic Pisco Sour Preparation
+title: Mobile robot with intelligent pipeline fault sensing system
+summary: Implementation of a mobile robot for inspection of water main pipes. The robot has an intelligent sensing module to recognize different types of failures and reconstruct the interior of the inspected pipe.
 tags:
-  - Other
-date: '2023-09-01T00:00:00Z'
+  - Ground robots
+date: '2022-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Rwqewqender System
+  caption: Mobile robot and a 3D model of a pipe
   focal_point: Smart
 
 links:
