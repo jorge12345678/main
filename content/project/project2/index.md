@@ -29,7 +29,21 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
+Tunnels and pipelines are considered critical infrastructure since they are essential for the development of countries. Among these, the sewerage system and the waste distribution system hold significant importance. Due to their importance, the inspection and frequent diagnoses are necessary.
 
-Kitchen support robots are being used more frequently in the gastronomic sector. This type of robots represent a solution in the food industry by allowing processes to be automated, optimizing costs and standardizing the quality of the final product. This project is focused on the development and implementation of a robotic bartender system for automatic preparation of Pisco Sour, a peruvian drink recognized worldwide.
+For this reason, a mobile inspection robot was implemented. The robot is teleoperated from the entrance to the pipeline and transmits video in real time. During its movement within the pipes, information is collected to later carry out the 3D reconstruction of the interior of the pipe. A software interface was implemented on a field laptop and a Logitech gamepad was used for control as shown in  Figure 1.
 
-The robotic bartender is capable of executing each stage in the preparation of the Pisco Sour from precisely measuring the ingredients to performing perfect stirring. This achievement represents an interdisciplinary collaboration between the technical knowledge of robotics with the knowledge of gastronomy professionals. In the medium term, it is expected to expand the functionalities of the system in order to prepare non-alcoholic beverages such as coffee and soft drinks in addition to serving flour-based foods.
+<figure>
+  <img src= control.jpg width= 280 height= 280 >
+  <figcaption>Fig.1 - Robotic bartender serving Pisco Sour. Source: Peru21</figcaption>
+</figure>
+
+The project was validated with the support of the Peruvian company SEDAPAL (https://sedapalteinforma.com.pe/) who allowed access to its infrastructure as shown in Figure 2. A 3D model of the interior of the pipes was obtained in addition to information such as its inclination, actual diameter of the pipes, distance between mailboxes, etc.
+
+<figure>
+  <img src= entrance.jpg width= 280 height= 280 >
+  <figcaption>Fig.2 - Robotic bartender serving Pisco Sour. Source: Peru21</figcaption>
+</figure>
+
+
+
