@@ -2,7 +2,9 @@
 title: Mobile robot with intelligent pipeline fault sensing system
 summary: Implementation of a mobile robot for inspection of water main pipes. The robot has an intelligent sensing module to recognize different types of failures and reconstruct the interior of the inspected pipe.
 tags:
-  - Ground robots
+  - Ground robot
+  - Inspection robot
+  - 3D reconstruction
 date: '2022-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -35,14 +37,14 @@ For this reason, a mobile inspection robot was implemented. The robot is teleope
 
 <figure>
   <img src= control.jpg width= 280 height= 280 >
-  <figcaption>Fig.1 - Robotic bartender serving Pisco Sour. Source: Peru21</figcaption>
+  <figcaption>Fig.1 - Software interface and control gamepad </figcaption>
 </figure>
 
-The project was validated with the support of the Peruvian company SEDAPAL (https://sedapalteinforma.com.pe/) who allowed access to its infrastructure as shown in Figure 2. A 3D model of the interior of the pipes was obtained in addition to information such as its inclination, actual diameter of the pipes, distance between mailboxes, etc.
+The project was validated with the support of the Peruvian company SEDAPAL (https://sedapalteinforma.com.pe/) who allowed access to its infrastructure as shown in Figure 2. A 3D model of the interior of the pipes was obtained in addition to information such as its inclination, actual diameter of the pipes, etc.
 
 <figure>
   <img src= entrance.jpg width= 280 height= 280 >
-  <figcaption>Fig.2 - Robotic bartender serving Pisco Sour. Source: Peru21</figcaption>
+  <figcaption>Fig.2 - Validation of the inspection robot</figcaption>
 </figure>
 
 
