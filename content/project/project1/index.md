@@ -35,7 +35,7 @@ The robotic bartender is capable of executing each stage in the preparation of t
 
 <figure>
   <img src= featured2.jpg width= 280 height= 280 caption=1231>
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <figcaption>Fig.1 - Robotic Arm serving Pisco Sour</figcaption>
 </figure>
 
 This achievement represents an interdisciplinary collaboration between the technical knowledge of robotics with the knowledge of gastronomy professionals. In the medium term, it is expected to expand the functionalities of the system in order to prepare non-alcoholic beverages such as coffee and soft drinks in addition to serving flour-based foods. 
