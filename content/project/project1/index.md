@@ -20,7 +20,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://youtu.be/Erhf3Um_tBY'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
