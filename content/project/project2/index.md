@@ -47,5 +47,5 @@ The project was validated with the support of the Peruvian company SEDAPAL (http
   <figcaption>Fig.2 - Validation of the inspection robot</figcaption>
 </figure>
 
-
+This project was developed thanks to the support of the Technological Innovation Group of the the Pontifical Catholic University of Peru (GIT-PUCP) and financing by the National Program for Scientific Research and Advanced Studies (PROCIENCIA) of the Peruvian government.
 

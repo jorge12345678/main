@@ -45,3 +45,4 @@ The system was validated at the LinkING academic event (https://shorturl.at/pBGM
   <figcaption>Fig.2 - System validation at an academic event</figcaption>
 </figure>
 
+This project was developed thanks to the support of the Engineering Networking Center FABRICUM-PUCP.
