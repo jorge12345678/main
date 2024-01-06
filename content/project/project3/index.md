@@ -34,20 +34,20 @@ url_video: 'https://youtu.be/eXIlXzeYDLQ?si=Qb6eC_gk7kwMZbcp'
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
-En Diciembre del año 2020, la empresa Tumi Robotics en conjunto con la Pontificia Universidad Católica del Perú (PUCP) y el Centro de Innovación Científica Amazónica (CINCIA) inició con el desarrollo del proyecto Titulado: "Desarrollo e Implementación de Sistema Integrado por Vehículo de Superficie Marino (USV) y Drone aéreo para caracterización de lagunas en Madre de Dios". Financiado por el Programa Nacional de Innovación en Pesca y Acuicultura (PNIPA). Mi función fue la de Investigador Principal además de formulador del proyecto debido a los casi 2 años de experiencia en la validación en campo y despliegue de robots en la Amazonía y 4 años de experiencia en trabajos con robots marinos. 
+In December 2020, the company Tumi Robotics together with the Pontifical Catholic University of Peru (PUCP) and the Amazon Scientific Innovation Center (CINCIA) began the development of the project titled: "Development and Implementation of an Integrated Vehicle System. Marine Surface (USV) and Aerial Drone for characterization of lagoons in Madre de Dios". Financed by the National Innovation Program in Fisheries and Aquaculture (PNIPA). My role was Principal Investigator as well as project formulator due to almost 2 years of experience in field validation and deployment of robots in the Amazon and 4 years of experience working with marine robots.
 
-La zona de la Pampa es una de los zonas con mayor índice de destrucción Amazónica debido a la mineria ilegal como se muestra en la Figura 1, se calcula que más de 5 mil hectáreas de bosques se convirtieron en lagunas altamente contaminadas. Para evaluar la evolución de la naturaleza y biodiversidad es necesario caracterizar estos cuerpos de agua por lo que se evidenció la necesidad de un sistema robótico de fácil transporte y que evite poner en riesgo la salud de las personas al realizar mediciones de las lagunas contaminadas.
-
-<figure>
-  <img src= pampa.jpg width= 280 height= 280 >
-  <figcaption>Fig.1 - Zona de la Pampa en Madre de Dios, Perú. Fuente: Tecnología Minera </figcaption>
-</figure>
-
-The project was validated with the support of the Peruvian company SEDAPAL (https://sedapalteinforma.com.pe/) who allowed access to its infrastructure as shown in Figure 2. A 3D model of the interior of the pipes was obtained in addition to information such as its inclination, actual diameter of the pipes, etc.
+The Pampa area is one of the areas with the highest rate of Amazon destruction due to illegal mining, as shown in Figure 1. It is estimated that more than 5 000 hectares of forests were converted into highly contaminated lagoons. To evaluate the evolution of nature and biodiversity, it is necessary to characterize these bodies of water, which is why the need for a robotic system that is easy to transport and that avoids putting people's health at risk when measuring contaminated lagoons was evident.
 
 <figure>
-  <img src= entrance.jpg width= 280 height= 280 >
-  <figcaption>Fig.2 - Validation of the inspection robot</figcaption>
+  <img src= pampa.jpg width= 320 height= 320 >
+  <figcaption>Fig.1 - Destroyed area of the Pampa in Madre de Dios, Peru. Fuente: Tecnología Minera </figcaption>
 </figure>
 
-This project was developed thanks to the support of the Technological Innovation Group of the the Pontifical Catholic University of Peru (GIT-PUCP) and financing by the National Program for Scientific Research and Advanced Studies (PROCIENCIA) of the Peruvian government.
+The USV was light and compact in size, which allowed it to be easily transported to the various measurement points as seen in Figure 2. The function of this robot was to perform bathymetry in addition to measuring physical and chemical parameters of water quality in real time. In this way it was possible to approximate a 3D model of the geography of the bottom of the bodies of water and the variation of their water quality parameters. The drone used was a commercial one and had RTK positioning technology and a 3D laser scanner allowing reconstruction the area around the lagoon quite accurately.
+
+<figure>
+  <img src= usv_deployment.jpg width= 320 height= 320 >
+  <figcaption>Fig.2 - USV deployment in contaminated lake.</figcaption>
+</figure>
+
+Adicionalmente se realizaron caracterización de pozas formadas a partir de ríos presentes 
