@@ -39,14 +39,14 @@ In December 2020, the company Tumi Robotics together with the Pontifical Catholi
 The Pampa area is one of the areas with the highest rate of Amazon destruction due to illegal mining, as shown in Figure 1. It is estimated that more than 5 000 hectares of forests were converted into highly contaminated lagoons. To evaluate the evolution of nature and biodiversity, it is necessary to characterize these bodies of water, which is why the need for a robotic system that is easy to transport and that avoids putting people's health at risk when measuring contaminated lagoons was evident.
 
 <figure>
-  <img src= pampa.jpg width= 320 height= 320 >
+  <img src= pampa.jpg width= 480 height= 480 >
   <figcaption>Fig.1 - Destroyed area of the Pampa in Madre de Dios, Peru. Fuente: Tecnología Minera </figcaption>
 </figure>
 
 The USV was light and compact in size, which allowed it to be easily transported to the various measurement points as seen in Figure 2. The function of this robot was to perform bathymetry in addition to measuring physical and chemical parameters of water quality in real time. In this way it was possible to approximate a 3D model of the geography of the bottom of the bodies of water and the variation of their water quality parameters. The drone used was a commercial one and had RTK positioning technology and a 3D laser scanner allowing reconstruction the area around the lagoon quite accurately.
 
 <figure>
-  <img src= usv_deployment.jpg width= 320 height= 320 >
+  <img src= usv_deployment.png width= 320 height= 320 >
   <figcaption>Fig.2 - USV deployment in contaminated lake.</figcaption>
 </figure>
 
