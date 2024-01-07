@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://www.linkedin.com/in/jorgeramirezchavez/
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -45,4 +45,10 @@ The system was validated at the LinkING academic event (https://shorturl.at/pBGM
   <figcaption>Fig.2 - System validation at an academic event</figcaption>
 </figure>
 
-This project was developed thanks to the support of the Engineering Networking Center FABRICUM-PUCP.
+En el siguiente video se muestra el procedimiento de preparación de Pisco Sour. 
+
+<div style="text-align:center;">
+<iframe width="560" height="315" src="https://youtu.be/Erhf3Um_tBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div >
+
+This project was developed thanks to the support of the Engineering Networking Center FABRICUM-PUCP and the Pontifical Catholic University of Peru.
