@@ -34,7 +34,7 @@ url_video: 'https://youtu.be/eXIlXzeYDLQ?si=Qb6eC_gk7kwMZbcp'
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
-In December 2020, the company Tumi Robotics together with the Pontifical Catholic University of Peru (PUCP) and the Amazon Scientific Innovation Center (CINCIA) began the development of the project titled: "Development and Implementation of an Integrated Vehicle System. Marine Surface (USV) and Aerial Drone for characterization of lagoons in Madre de Dios". Financed by the National Innovation Program in Fisheries and Aquaculture (PNIPA). My role was Principal Investigator as well as project formulator due to almost 2 years of experience in field validation and deployment of robots in the Amazon and 4 years of experience working with marine robots.
+In December 2020, the company Tumi Robotics together with the Pontifical Catholic University of Peru (PUCP) and the Amazon Scientific Innovation Center (CINCIA) began the development of the project titled: "Development and Implementation of an Integrated Vehicle System. Marine Surface (USV) and Aerial Drone for characterization of lagoons in Madre de Dios". Financed by the National Innovation Program in Fisheries and Aquaculture (PNIPA). My role was Principal Investigator as well as project formulator due to almost 2 years of experience in validation and deployment of robots in the Amazon and 4 years of experience working with marine robots.
 
 The Pampa area is one of the areas with the highest rate of Amazon destruction due to illegal mining, as shown in Figure 1. It is estimated that more than 5 000 hectares of forests were converted into highly contaminated lagoons. To evaluate the evolution of nature and biodiversity, it is necessary to characterize these bodies of water, which is why the need for a robotic system that is easy to transport and that avoids putting people's health at risk when measuring contaminated lagoons was evident.
 
@@ -53,9 +53,11 @@ The USV was light and compact in size, which allowed it to be easily transported
 Characterization of natural pools was also carried out as shown in Figure 3, where challenging working conditions such as abundant vegetation and the presence of sporadic rains were presented. 
 
 <figure>
-  <img src= figura3.jpg width= 540 height= 540 >
+  <img src= figura3.jpg width= 380 height= 380 >
   <figcaption>Fig.3 - USV deployment in a natural lake.</figcaption>
 </figure>
+
+The following video summarizes the work developed throughout the project as well as the results obtained. The necessary field logistics and the support of collaborators from the different Peruvian institutions mentioned are evident.
 
 <div style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXIlXzeYDLQ?si=jxxiev43iSI1wk7F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
