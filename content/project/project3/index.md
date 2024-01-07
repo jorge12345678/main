@@ -57,7 +57,4 @@ Characterization of natural pools was also carried out as shown in Figure 3, whe
   <figcaption>Fig.3 - USV deployment in a natural lake.</figcaption>
 </figure>
 
-
-<iframe width="420" height="315"
-src=https://youtu.be/eXIlXzeYDLQ?si=Qb6eC_gk7kwMZbcp>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXIlXzeYDLQ?si=jxxiev43iSI1wk7F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
