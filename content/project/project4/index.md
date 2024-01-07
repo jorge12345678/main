@@ -1,5 +1,5 @@
 ---
-title: Using a Marine Surface Vehicle (USV) and a Drone for water body characterization in the Amazon.
+title: Using a Marine Surface Vehicle (USV) for water body characterization in the Andes Mountain Range.
 
 summary: This project, developed by the Peruvian company Tumi Robotics, seeks to combat pollution in the Amazon caused by illegal mining activities using a robotic solution composed of a surface aquatic robot and a drone. Using specialized sensors, it is sought to diagnose contaminated water bodies so that local institutions can propose solution alternatives.
 
