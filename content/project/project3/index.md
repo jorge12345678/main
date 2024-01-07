@@ -50,4 +50,14 @@ The USV was light and compact in size, which allowed it to be easily transported
   <figcaption>Fig.2 - USV deployment in contaminated lake.</figcaption>
 </figure>
 
-Adicionalmente se realizaron caracterización de pozas formadas a partir de ríos presentes 
+Characterization of natural pools was also carried out as shown in Figure 3, where challenging working conditions such as abundant vegetation and the presence of sporadic rains were presented. 
+
+<figure>
+  <img src= figura3.jpg width= 540 height= 540 >
+  <figcaption>Fig.3 - USV deployment in a natural lake.</figcaption>
+</figure>
+
+
+<iframe width="420" height="315"
+src=https://youtu.be/eXIlXzeYDLQ?si=Qb6eC_gk7kwMZbcp>
+</iframe>
