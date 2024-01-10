@@ -40,7 +40,7 @@ The Pampa area is one of the areas with the highest rate of Amazon destruction d
 
 <figure>
   <img src= pampa.jpg width= 480 height= 480 >
-  <figcaption>Fig.1 - Destroyed area of the Pampa in Madre de Dios, Peru. Fuente: Tecnología Minera </figcaption>
+  <figcaption>Fig.1 - Destroyed area of the Pampa in Madre de Dios, Peru. Source: Tecnología Minera </figcaption>
 </figure>
 
 The USV was light and compact in size, which allowed it to be easily transported to the various measurement points as seen in Figure 2. The function of this robot was to perform bathymetry in addition to measuring physical and chemical parameters of water quality in real time. In this way it was possible to approximate a 3D model of the geography of the bottom of the bodies of water and the variation of their water quality parameters. The drone used was a commercial one and had RTK positioning technology and a 3D laser scanner allowing reconstruction the area around the lagoon quite accurately.
