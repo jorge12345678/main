@@ -47,9 +47,7 @@ In August 2020, Tumi Robotics with the support of the National Service of Natura
   <figcaption>Fig.2 - Llaca lake at 4474 m.a.s.l.</figcaption>
 </figure>
 
-El siguiente video muestra el trabajo realizado para lograr el monitoreo de lagunas glaciales
-
-The following video summarizes the work developed throughout the project as well as the results obtained. The necessary field logistics and the support of collaborators from the different Peruvian institutions mentioned are evident.
+This project represented a significant breakthrough in Peruvian robotics, being the first time an aquatic robot inspected the lakes of the Cordillera Blanca. The following video showcases the fieldwork conducted, along with the beautiful nature of the Peruvian highlands.
 
 <div style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7B9a1TdU3eY?si=PCKgePXRiyVfH9XN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
