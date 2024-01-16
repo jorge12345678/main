@@ -39,19 +39,19 @@ As part of the development of multiple aquatic robots for monitoring various phy
 
 <figure>
   <img src= pruebas.png width= 480 height= 480 >
-  <figcaption>Fig.1 - Lugar de pruebas de UUV.</figcaption>
+  <figcaption>Fig.1 - UUV Testing Site </figcaption>
 </figure>
 
 Displacement and high-quality underwater video recording tests were conducted. Additionally, parameters such as depth and temperature were measured. The robot uses rear thrusters for its displacement and tunnel-type thrusters for turns. Figure 2 shows the prototype used in the tests, which did not have a casing due to time constraints.
 
 <figure>
   <img src= UUV.png width= 540 height= 540 >
-  <figcaption>Fig.2 - Prototipo desplazandose en el agua </figcaption>
+  <figcaption>Fig.2 - Prototype moving in the water </figcaption>
 </figure>
 
 In the field tests, the prototype's waterproofing, its displacement, and limitations in the face of the marine current were validated. Images of the seabed were captured in shallow water, where a significant amount of underwater vegetation was observed.
 
 <figure>
   <img src= fondo.jpg width= 540 height= 540 >
-  <figcaption>Fig.2 - Prototipo desplazandose en el agua </figcaption>
+  <figcaption>Fig.3 - Image of the seabed captured by UUV </figcaption>
 </figure>
