@@ -1,6 +1,6 @@
 ---
 title: Mobile robot with intelligent pipeline fault sensing system
-summary: Implementation of a mobile robot for inspection of water main pipes. The robot has an intelligent sensing module to recognize different types of failures and reconstruct the interior of the inspected pipe.
+summary: Implementation of a mobile robot for inspection of water main pipes. 
 tags:
   - Ground robot
   - Inspection robot
