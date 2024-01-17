@@ -1,8 +1,11 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
+- Grover Susanibar
+- Admin
+- Jennifer Sanchez
+- Renzo Ramirez
+- Dante Arroyo
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
