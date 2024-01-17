@@ -52,5 +52,5 @@ Displacement and high-quality underwater video recording tests were conducted. A
 In the field tests, the prototype's waterproofing, its displacement, and limitations in the face of the marine current were validated. Images of the seabed were captured in shallow water, where a significant amount of underwater vegetation was observed.
 
 <div style="text-align:center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eeoK3nu5TSg?si=nC5T9tsyd5ghKx2X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eeoK3nu5TSg?si=AjlJRcYNWvOeUqAX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
