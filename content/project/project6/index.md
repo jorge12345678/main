@@ -1,13 +1,14 @@
 ---
-title: Implementation of un Robot Catamarán No Tripulado para monitoreo de actividades de acuicultura.
+title: Implementation of an Unmanned Catamaran Robot for monitoring aquaculture activities.
 
-summary: Se propone el uso de USV integrado con múltiples de sensores además de un ROV pequeño para el monitoreo de actividades de acuicultura.
+summary: The use of an Unmanned Surface Vehicle (USV) integrated with multiple sensors, along with a small Remotely Operated Vehicle (ROV), is proposed for monitoring aquaculture activities.
 
 tags:
   - Aquatic robots
   - USV
+  - Underwater ROV
 
-date: '2022-07-01T00:00:00Z'
+date: '2022-04-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -33,23 +34,14 @@ url_video: 'https://youtu.be/eeoK3nu5TSg?si=Pik4SoXIEtgrNn2B'
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
-
-
-As part of the development of multiple aquatic robots for monitoring various physicochemical parameters financed by the National Innovation Program in Fisheries and Aquaculture (PNIPA), I was in charge of the electronic system development and validation tests of the UUV. This was carried out on beaches in northern Peru, as shown in Figure 1.
+As part of the development of multiple aquatic robots financed by the National Innovation Program in Fisheries and Aquaculture (PNIPA), I was in charge of coordinating and conducting validation tests of the catamaran-type aquatic robot by teleoperating it in a bay. These tests involved teleoperating the robot to assess balance and maneuverability. Figure 1 shows tests of a preliminary version of the robot in a bay frequented by fishermen and mariculturists.  
 
 <figure>
-  <img src= pruebas.png width= 480 height= 480 >
-  <figcaption>Fig.1 - UUV Testing Site </figcaption>
+  <img src= pruebas.jpg width= 480 height= 480 >
+  <figcaption>Fig.1 - Balance tests of the USV </figcaption>
 </figure>
 
-Displacement and high-quality underwater video recording tests were conducted. Additionally, parameters such as depth and temperature were measured. The robot uses rear thrusters for its displacement and tunnel-type thrusters for turns. Figure 2 shows the prototype used in the tests, which did not have a casing due to time constraints.
-
-<figure>
-  <img src= UUV.png width= 540 height= 540 >
-  <figcaption>Fig.2 - Prototype moving in the water </figcaption>
-</figure>
-
-In the field tests, the prototype's waterproofing, its displacement, and limitations in the face of the marine current were validated. Images of the seabed were captured in shallow water, where a significant amount of underwater vegetation was observed.
+The USV is equipped with a portable weather station, a deployable multiparameter probe for measuring water quality parameters, and an underwater ROV for submarine inspection, as shown in the following video.
 
 <div style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eeoK3nu5TSg?si=AjlJRcYNWvOeUqAX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
