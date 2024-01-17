@@ -142,6 +142,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: uploads/icmre.pdf
+          date_end: '2024-02-01'
+          date_start: '2024-02-01'
+          description: 'Technical Committee member'
+          icon: icmre
+          organization: ICMRE 2024
+          organization_url: https://www.icmre.org/
+          title: The 10th International Conference on Mechatronics and Robotics Engineering
+          url: 'https://www.coursera.org/programs/pucp-docentes-fc-2umjj/learn/intro-self-driving-cars'
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/FSFYCWL9WRA9
           date_end: '2023-12-01'
           date_start: '2023-09-01'
