@@ -26,7 +26,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Advanced Agricultural Technologie, 8*(1)"
-publication_short: " "
+publication_short: ""
 
 abstract: This paper presents the design and implementation of a prototype automated machine for green coffee beans classification for small agro-industries. This work responds to the need to simultaneously automate the processes of sorting by size and grading by physical defects of green coffee beans with the aim of optimizing the time and increasing the quality of the final product. Firstly, the machine classifies grains into three size ranges through a mechanical sorting system. Secondly, it has computer vision algorithms working in real time to differentiate good and defective grains. Then it has an embedded system for control along with a set of sensors and actuators and a control panel that make possible a selection of quality of green coffee beans. The results show an accuracy of 96% for sorting by size and an accuracy of 80% for grading by physical defects. The flow of coffee beans at the outlet is approximately 5 kilograms per hour. Finally, a set of conclusions and future works are presented.
 
