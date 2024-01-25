@@ -1,26 +1,23 @@
 ---
-title: 'Practical Applications of a Vision-based Robot for Security and Safety of Tailings Tunnels Infrastructure in the Mining Industry'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Development of an Automated Machine for Green Coffee Beans Classification by Size and Defects"
 authors:
-  - admin
-  - Alexander Segovia
-  - Manuel Escobar
-  - Diego Quiroz
-  - Francisco Cuellar
-
-# Author notes (optional)
+- Grover Susanibar
+- Admin
+- Jennifer Sanchez
+- Renzo Ramirez
+- Dante Arroyo
 author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
-date: '2021-04-01T00:00:00Z'
-doi: '10.1109/ICCAR52225.2021.9463440'
+date: "2021-09-01T00:00:00Z"
+doi: "10.18178/joaat.8.1.17-24"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-04-01T00:00:00Z'
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,38 +25,36 @@ publishDate: '2021-04-01T00:00:00Z'
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: "*Journal of Advanced Agricultural Technologie, 8*(1)"
+publication_short: ""
 
-abstract: In the mining industry, inspection of water recovery tunnels from tailings ponds is a critical activity in order to prevent disasters that could harm personnel, the environment and the infrastructure. Tunnel inspections are considered of high risk due to hazardous conditions such as working near water sources, inside confined spaces and the presence of toxic gases. We propose the use of a vision-based robotic vehicle for water recovery tunnels inspection, improving the security and safety of this high risk but required task. This paper describes the experience of performing a remote inspection of a tailing pond water recovery tunnel using a robot. The identification of challenges, the establishment of a inspection plan, the remote inspection methodology and the safety regulations required in the mining industry are detailed. After evaluating the performance of the inspection robot in field, the need for a 3D reconstruction functionality in order to improve the tunnel diagnosis was identified. The design, preliminary test and results of the performance of a 3D reconstruction module for the inspection robot are presented and discussed.
+abstract: This paper presents the design and implementation of a prototype automated machine for green coffee beans classification for small agro-industries. This work responds to the need to simultaneously automate the processes of sorting by size and grading by physical defects of green coffee beans with the aim of optimizing the time and increasing the quality of the final product. Firstly, the machine classifies grains into three size ranges through a mechanical sorting system. Secondly, it has computer vision algorithms working in real time to differentiate good and defective grains. Then it has an embedded system for control along with a set of sensors and actuators and a control panel that make possible a selection of quality of green coffee beans. The results show an accuracy of 96% for sorting by size and an accuracy of 80% for grading by physical defects. The flow of coffee beans at the outlet is approximately 5 kilograms per hour. Finally, a set of conclusions and future works are presented.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: As part of a project course in the mechatronic engineering degree, a machine for the automatic classification of coffee beans by color and size using vision-based algorithms was developed.
 
-tags: []
+tags:
+- Vision-based algorithms
+- Automation
+featured: false
 
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+links: 
+# - name: ""
+#   url: ""
+url_pdf: 'uploads/journal.pdf'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: 'https://www.joaat.com/uploadfile/2021/0416/20210416045643148.pdf'
+url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: 'Implemented machine'
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -67,23 +62,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
