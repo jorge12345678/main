@@ -31,28 +31,29 @@ publication_short: ""
 abstract: This paper presents the design and implementation of a prototype automated machine for green coffee beans classification for small agro-industries. This work responds to the need to simultaneously automate the processes of sorting by size and grading by physical defects of green coffee beans with the aim of optimizing the time and increasing the quality of the final product. Firstly, the machine classifies grains into three size ranges through a mechanical sorting system. Secondly, it has computer vision algorithms working in real time to differentiate good and defective grains. Then it has an embedded system for control along with a set of sensors and actuators and a control panel that make possible a selection of quality of green coffee beans. The results show an accuracy of 96% for sorting by size and an accuracy of 80% for grading by physical defects. The flow of coffee beans at the outlet is approximately 5 kilograms per hour. Finally, a set of conclusions and future works are presented.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: As part of a project course in the mechatronic engineering degree, a machine for the automatic classification of coffee beans by color and size using vision-based algorithms was developed.
 
 tags:
-- Source Themes
+- Vision-based algorithms
+- Automation
 featured: false
 
-# links:
+links: 
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'uploads/journal.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.joaat.com/uploadfile/2021/0416/20210416045643148.pdf'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -68,7 +69,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
