@@ -16,11 +16,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2021-04-01T00:00:00Z'
+doi: '10.1109/ICCAR52225.2021.9463440'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-04-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,7 +31,7 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In the mining industry, inspection of water recovery tunnels from tailings ponds is a critical activity in order to prevent disasters that could harm personnel, the environment and the infrastructure. Tunnel inspections are considered of high risk due to hazardous conditions such as working near water sources, inside confined spaces and the presence of toxic gases. We propose the use of a vision-based robotic vehicle for water recovery tunnels inspection, improving the security and safety of this high risk but required task. This paper describes the experience of performing a remote inspection of a tailing pond water recovery tunnel using a robot. The identification of challenges, the establishment of a inspection plan, the remote inspection methodology and the safety regulations required in the mining industry are detailed. After evaluating the performance of the inspection robot in field, the need for a 3D reconstruction functionality in order to improve the tunnel diagnosis was identified. The design, preliminary test and results of the performance of a 3D reconstruction module for the inspection robot are presented and discussed.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
