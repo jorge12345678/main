@@ -17,7 +17,7 @@ publishDate: "2021-04-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "2021 7th International Conference on Control, Automation and Robotics (ICCAR)"
@@ -37,7 +37,7 @@ featured: false
 links: 
 # - name: ""
 #   url: ""
-url_pdf: ''
+# url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
