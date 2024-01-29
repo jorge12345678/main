@@ -1,23 +1,18 @@
 ---
-title: "Development of an Automated Machine for Green Coffee Beans Classification by Size and Defects"
+title: "Practical Applications of a Vision-based Robot for Security and Safety of Tailings Tunnels Infrastructure in the Mining Industry"
 authors:
-- Grover Susanibar
 - Admin
-- Jennifer Sanchez
-- Renzo Ramirez
-- Dante Arroyo
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- Alexander Segovia
+- Manuel Escobar
+- Diego Quiroz
+- Francisco Cuellar
+#author_notes:
 
-date: "2021-09-01T00:00:00Z"
-doi: "10.18178/joaat.8.1.17-24"
+date: "2021-04-01T00:00:00Z"
+doi: "10.1109/ICCAR52225.2021.9463440"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-04-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,29 +20,30 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Advanced Agricultural Technologie, 8*(1)"
+publication: "2021 7th International Conference on Control, Automation and Robotics (ICCAR)"
 publication_short: ""
 
-abstract: This paper presents the design and implementation of a prototype automated machine for green coffee beans classification for small agro-industries. This work responds to the need to simultaneously automate the processes of sorting by size and grading by physical defects of green coffee beans with the aim of optimizing the time and increasing the quality of the final product. Firstly, the machine classifies grains into three size ranges through a mechanical sorting system. Secondly, it has computer vision algorithms working in real time to differentiate good and defective grains. Then it has an embedded system for control along with a set of sensors and actuators and a control panel that make possible a selection of quality of green coffee beans. The results show an accuracy of 96% for sorting by size and an accuracy of 80% for grading by physical defects. The flow of coffee beans at the outlet is approximately 5 kilograms per hour. Finally, a set of conclusions and future works are presented.
+abstract: In the mining industry, inspection of water recovery tunnels from tailings ponds is a critical activity in order to prevent disasters that could harm personnel, the environment and the infrastructure. Tunnel inspections are considered of high risk due to hazardous conditions such as working near water sources, inside confined spaces and the presence of toxic gases. We propose the use of a vision-based robotic vehicle for water recovery tunnels inspection, improving the security and safety of this high risk but required task. This paper describesthe experience of performing a remote inspection of a tailing pond water recovery tunnel using a robot. The identification of challenges, the establishment of a inspection plan, the remote inspection methodology and the safety regulations required in the mining industry are detailed. After evaluating the performance of the inspection robot in field, the need for a 3D reconstruction functionality in order to improve the tunnel diagnosis was identified. The design, preliminary test and results of the performance of a 3D reconstruction module for the inspection robot are presented and discussed.
 
 # Summary. An optional shortened abstract.
-summary: As part of a project course in the mechatronic engineering degree, a machine for the automatic classification of coffee beans by color and size using vision-based algorithms was developed.
+summary: In the mining industry, tunnel inspections are considered of high risk due to hazardous conditions. We propose the use of a vision-based robotic vehicle improving the security and safety of this task.
 
 tags:
 - Vision-based algorithms
-- Automation
+- Inspection
+- Ground robots
 featured: false
 
 links: 
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/journal.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.joaat.com/uploadfile/2021/0416/20210416045643148.pdf'
+url_source: 'https://ieeexplore.ieee.org/document/9463440'
 url_video: ''
 
 # Featured image
