@@ -49,9 +49,10 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Implemented machine'
+  caption: 'Reconstruction test with Inspection Robot'
   focal_point: ""
   preview_only: false
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -67,6 +68,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+The final result obtained by the system is the 3D reconstruction of the inspected pipes, as shown in the following video. 
+
 <div style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GthN1tUs7IU?si=Qlc8H-M-CLLpn4qn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
