@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 70
-  - name: Certificates
-    url: '#certificates'
+  - name: Publications
+    url: '#publications'
     weight: 50
   - name: Contact
     url: '#contact'
