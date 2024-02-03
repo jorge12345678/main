@@ -128,5 +128,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Jorge Ramirez is a research lecturer at the Technological Innovation Group (GIT) at the Pontifical Catholic University of Peru (PUCP). He has over 6 years of experience in developing robotic systems, validating them in the field, and providing services to the private sector. His research interests include the design and implementation of terrestrial and aquatic robots, automatic control and autonomous navigation. He currently leads the project development laboratory at Fabricum PUCP, which aims to perform R&D projects in collaboration with the Peruvian public and private sectors.
+Jorge Ramirez is a researcher at the Pontifical Catholic University of Peru (PUCP). He has over 7 years of experience in developing robotic projects, validating them in the field, and providing services to the private sector. His research interests include the design and implementation of ground and aquatic robots, automatic control and autonomous navigation. He currently leads the project development laboratory at Fabricum PUCP, which aims to perform R&D projects in collaboration with the Peruvian public and private sectors.
 {style="text-align: justify;"}
