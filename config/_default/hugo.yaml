@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jorge Ramirez # Website name
-baseURL: 'https://jorge.ramirez.me/' # Website URL
+baseURL: 'https://jorgeramirez.de/' # Website URL
 
 ############################
 ## LANGUAGE
