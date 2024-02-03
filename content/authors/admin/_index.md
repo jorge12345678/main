@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Mechatronics Engineer. MSc in Control and Automation #/ MSc in Control and Automation Engineering
+role: Mechatronics Engineer.      MSc in Control and Automation #/ MSc in Control and Automation Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
