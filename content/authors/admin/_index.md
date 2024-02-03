@@ -1,6 +1,6 @@
 ---
 # Display name
-title: MSc Jorge Ramirez
+title: Jorge Ramirez
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Robotic Application Development Engineer. MSc in Control and Automation #/ MSc in Control and Automation Engineering
+role: Mechatronics Engineer. MSc in Control and Automation #/ MSc in Control and Automation Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
